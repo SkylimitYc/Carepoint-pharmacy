@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <title>CarePoint Pharmacy</title>
+  <defs>
+    <linearGradient id="carepoint-bg" x1="8" y1="4" x2="57" y2="61" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#159D83" />
+      <stop offset="1" stop-color="#087366" />
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="60" height="60" rx="19" fill="url(#carepoint-bg)" />
+  <path d="M28 14h8v14h14v8H36v14h-8V36H14v-8h14V14Z" fill="#fff" />
+  <path d="M43.5 12.5c-6.7.5-11.2 4.5-12.3 11.1 6.5 1.3 11.2-2 12.3-11.1Z" fill="#A8EBCB" />
+  <path d="M33.3 23.8c1.3-4.9 4.4-8.3 9.5-10.2" stroke="#087366" stroke-linecap="round" stroke-width="1.8" />
+</svg>
